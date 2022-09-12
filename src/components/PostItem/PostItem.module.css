@@ -1,0 +1,16 @@
+.postItem {
+    display: flex;
+    padding: 10px 20px;
+    justify-content: space-between;
+    width: 800px;
+    align-items: center;
+    border: 3px solid teal;
+    margin: 10px auto;
+    text-align: start;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.description {}
